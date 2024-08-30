@@ -1,0 +1,42 @@
+body{
+    background-color: #f3f8fc;
+}
+
+.bod{
+    background-color: #ffffff;
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px 50px 10px 50px;
+    border: 1px solid #c7c7c7;
+}
+
+.miniinfo{
+    color:#e91d63;
+    font-size: small;
+}
+
+.line{
+    background-color: black;
+    width: 500px;
+    height:4px;
+    margin-bottom: 40px;
+}
+
+.titles{
+    font-size: medium;
+}
+
+.lists{
+    color:#666666;
+}
+
+.pink{
+    color:#e91d63;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.ital{
+    font-style: italic;
+    display:inline-block;
+}
